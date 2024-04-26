@@ -1,0 +1,49 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "tech_edd20891"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "TicTactoe.App",
+            "projectName": "tech_edd20891"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "SAlary",
+            "request": "launch",
+            "mainClass": "SAlary",
+            "projectName": "tech_edd20891"
+        },
+        {
+            "type": "java",
+            "name": "salaryslip",
+            "request": "launch",
+            "mainClass": "salaryslip",
+            "projectName": "tech_edd20891"
+        },
+        {
+            "type": "java",
+            "name": "swapFstLast",
+            "request": "launch",
+            "mainClass": "swapFstLast",
+            "projectName": "tech_edd20891"
+        }
+    ]
+}
